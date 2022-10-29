@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Steve Donetz.
+- 👋 Hi, I’m Steve Donetz thats my third year of coding , and i am enjoying this so much (Code Night team !!!).
 - 👀 I’m interested in Data base and web development.
-- 🌱 I’m currently learning phyerbase.
+- 🌱 I’m currently learning phyerbase and C#.
 - 💞️ I’m looking to collaborate on everything is amazing ! 
 - 📫 How to reach me (E-mail - sd0556696626@gmail.com)
 
